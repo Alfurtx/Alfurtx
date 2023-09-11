@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+### Projectos por terminar
+- [ ] Rust Ray Tracer
+- [ ] Edex (GUI Text Editor)
+- [ ] Minecraft in C & OpenGL
+- [ ] Cornell Box Demo
+- [ ] yawm (Yet Another Window Manager)
+- [ ] Personal Homedrive in JS/TS 
