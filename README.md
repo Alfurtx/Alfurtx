@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 ---
 
 ### Proyectos a hacer
-- [ ] Minecraft en C y OpenGL
-- [ ] Pagina web portfolio
-- [ ] Nucleo simple RISC-V en Verilog
-- [ ] UI grafica en Rust
-- [ ] Editor de texto
+- [ ] Stack TCP/IP
+- [ ] JSON Parser
+- [ ] DNS Solver
